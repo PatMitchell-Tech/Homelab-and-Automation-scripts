@@ -12,7 +12,8 @@ So to start with all the hardware I have want to break it up by category and typ
 <br> <br>
 **`Other Devices:`** Macbook; Dell laptop; Toshiba laptop (needs to be reimaged so not in use); Smart TVs, Smart Phones, and Tablets.
 <br> <br>
-**`Plans for upgrading`**
+__________________________________________________________________________________
+**`Future Plans for upgrading`**
 <br> <br>
 Ram upgrade for PC(32 GB to 64 GB)
 <br> <br>
