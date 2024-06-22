@@ -53,4 +53,7 @@ ________________________________________________________________________________
 <br> <br>
 I ended up using my raspberry pi 4 for quite a few projects such as my honeypot analysis project in my emerging technologies course. I also used it in my capstone project for storing and distributing malware to targeted virtual machines.
 <br> <br>
+I wanted to learn more about how docker works so I ended up implementing it in my homelab. I span up a container for running a homer homepage for some of the services that I was running at the time such as pi-hole, my sftp client, my portfolio etc.
+<br> <br>
+I ended up installing freebsd to my raspberry pi as I was looking for a good lightweight os for running services. I ended up however installing raspberry pi os lite and it has been running very well. I plan to reimplement pi-hole and homer into my homelab.
 
