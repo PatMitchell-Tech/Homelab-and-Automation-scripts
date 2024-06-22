@@ -26,3 +26,4 @@ thinkpad t460 purchase
 Cheap server to run vmware esxi on(Something similar to a dell poweredge R720)
 
 _________________________________________________________________________________
+**`Chapter Two - Homelab history:`**
