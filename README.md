@@ -12,7 +12,7 @@ Server: Raspberry pi 4 model B
 <br> <br>
 Other devices: Macbook; Dell laptop; Toshiba laptop (needs to be reimaged so not in use); Smart TVs, Smart Phones, and Tablets.
 <br> <br>
-Plans for upgrades/new infrastucture:
+**Plans for upgrades/new infrastucture:**
 <br> <br>
 Ram upgrade for PC(32 GB to 64 GB)
 <br> <br>
