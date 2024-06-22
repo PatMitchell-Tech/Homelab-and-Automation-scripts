@@ -2,4 +2,4 @@ My homelab wiki:
 
 
 
-Chapter one - Infrastructure
+**`Chapter one - Infrastructure**`
