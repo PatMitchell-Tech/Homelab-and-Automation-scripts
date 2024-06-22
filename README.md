@@ -44,6 +44,5 @@ The next service I started was HTTP, this was around january 2023. I setup a sma
 <br> <br>
 Throughout the next couple of months I experimented heavy with virtualization and my homelab. I started installing more uncommon operating systems such as templeos, Arch etc. to learn more about different operating systems. 
 <br> <br>
-I found that as much as I liked arch I preferred operating systems such as Debian or Fedora.
+I found that as much as I liked arch I preferred operating systems such as Debian or Fedora for running servers due to their stability. The first ever piece of hardware that I used exclusively for setting up services was my raspberry pi 4 which I received the christmas of 2023.
 <br> <br>
-It wasn't until december of 2023 that I would receive my raspberry pi as a christmas gift that would end up expanding my homelab.
