@@ -40,6 +40,7 @@ It wasn't until my second semester of college until I really started making a mo
 <br> <br>
 I used that operating system to learn things such as the vim text editor alongside so in the linux system admin course. I also learned how to setup SFTP and interact with a file server using Filezilla. SFTP was the first service I setup.
 <br> <br>
+_________________________________________________________________________________
 **`2023:`**
 <br> <br>
 The next service I started was HTTP, this was around january 2023. I setup a small website that told the current military time and had links to youtube as well as my textbooks, and school website.
@@ -47,6 +48,7 @@ The next service I started was HTTP, this was around january 2023. I setup a sma
 Throughout the next couple of months I experimented heavy with virtualization and my homelab. I started installing more uncommon operating systems such as templeos, Arch etc. to learn more about different operating systems. 
 <br> <br>
 I found that as much as I liked arch I preferred operating systems such as Debian or Fedora for running servers due to their stability. The first ever piece of hardware that I used exclusively for setting up services was my raspberry pi 4 which I received the christmas of 2023.
+_________________________________________________________________________________
 <br> <br>
 **`2024:`**
 <br> <br>
