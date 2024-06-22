@@ -42,4 +42,8 @@ I used that operating system to learn things such as the vim text editor alongsi
 <br> <br>
 The next service I started was HTTP, this was around january 2023. I setup a small website that told the current military time and had links to youtube as well as my textbooks, and school website.
 <br> <br>
-Throughout the next couple of months I experimented heavy with virtualization and my homelab. I started installing more uncommon operating systems such as templeos, Arch etc. to learn more about different operating systems
+Throughout the next couple of months I experimented heavy with virtualization and my homelab. I started installing more uncommon operating systems such as templeos, Arch etc. to learn more about different operating systems. 
+<br> <br>
+I found that as much as I liked arch I preferred operating systems such as Debian or Fedora.
+<br> <br>
+It wasn't until december of 2023 that I would receive my raspberry pi as a christmas gift that would end up expanding my homelab.
