@@ -27,3 +27,8 @@ Cheap server to run vmware esxi on(Something similar to a dell poweredge R720)
 
 _________________________________________________________________________________
 **`Chapter Two - Homelab history:`**
+<br> <br>
+**`Why I started my homelab:`**
+<br> <br>
+I initially started my homelab because I wanted to get some hands on experience with networking for my Cisco networking class.
+<br> <br>
