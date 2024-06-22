@@ -30,5 +30,14 @@ ________________________________________________________________________________
 <br> <br>
 **`Why I started my homelab:`**
 <br> <br>
-I initially started my homelab because I wanted to get some hands on experience with networking for my Cisco networking class.
+I initially started my homelab in 2022 around late october because I wanted to get some hands on experience with networking for my Cisco networking class.
 <br> <br>
+I learned how to setup many different types of virtual networks in virtualbox and vmware workstation player. Some of the following networks included: bridged, host-only, private, NAT, and internal.
+<br> <br>
+I mainly used virtualbox as that was the hypervisor I preferred using. I started experimenting with different operating systems such as fedora linux and ubuntu, yet I didn't really have a clue how they worked or how to properly use them.
+<br> <br>
+It wasn't until my second semester of college until I really started making a more interesting homelab. I started taking a linux system administration course that inspired me to create a virtualized ubuntu server outside of the course.
+<br> <br>
+I used that operating system to learn things such as the vim text editor alongside so in the linux system admin course. I also learned how to setup SFTP and interact with a file server using Filezilla. SFTP was the first service I setup.
+<br> <br>
+The next service I started was HTTP, this was around january 2023. I setup a small website that told the current military time and had links to youtube as well as my textbooks, and school website.
