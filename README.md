@@ -1,6 +1,7 @@
 My homelab wiki:
 _________________________________________________________________________________
 **`Chapter one - Infrastructure:`**
+<br>
 So to start with all the hardware I have want to break it up by category and type.
 <br>
 Network infrastructure: Spectrum cable modem and router
