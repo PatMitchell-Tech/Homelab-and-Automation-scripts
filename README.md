@@ -18,6 +18,6 @@ Ram upgrade for PC(32 GB to 64 GB)
 <br> <br>
 second monitor implementation
 <br> <br>
-Purchasing a 24 port managed switch to implement vlan
+Purchasing a 24 port managed switch to implement vlans to segment my network
 
 _________________________________________________________________________________
