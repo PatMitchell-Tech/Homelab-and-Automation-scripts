@@ -46,3 +46,4 @@ Throughout the next couple of months I experimented heavy with virtualization an
 <br> <br>
 I found that as much as I liked arch I preferred operating systems such as Debian or Fedora for running servers due to their stability. The first ever piece of hardware that I used exclusively for setting up services was my raspberry pi 4 which I received the christmas of 2023.
 <br> <br>
+I ended up using my raspberry pi 4 for quite a few projects such as my honeypot analysis project in my emerging technologies course. I also used in my capstone project for storing and distributing malware to targeted virtual machines.
