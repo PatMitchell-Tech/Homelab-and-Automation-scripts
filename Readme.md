@@ -21,7 +21,7 @@ second monitor implementation
 <br> <br>
 Purchasing a 24 port managed switch to implement vlans to segment my network
 <br> <br>
-thinkpad t460 purchase
+thinkpad t460 purchase because I think thinkpads are cool + I need to have a good laptop for the future.
 <br> <br>
 Cheap server to run vmware esxi on(Something similar to a dell poweredge R720)
 
