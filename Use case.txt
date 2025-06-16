@@ -1,7 +1,0 @@
-My homelab has been used for many different things.
-I will list some reasons below on what I have used mine for.
-1. Setting up encrypted file servers and clients using ssh and filezilla for SFTP
-2. Setting up and configuring docker on my rpi4 to run certain services isolated in containers
-3. Setting up a domain controller in active directory and connecting five virtual machines to the domain
-4. Experimenting with penetration testing and learning how to exploit and defend against attacks
-5. Running services that I use on a daily basis such as pi-hole
