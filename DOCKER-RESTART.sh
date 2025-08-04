@@ -1,9 +1,20 @@
-#!/bin/bash
+echo "========================================="
+echo "      ____             _                 "
+echo "     |  _ \  ___   ___| | _____ _ __     "
+echo "     | | | |/ _ \ / __| |/ / _ \ '__|    "
+echo "     | |_| | (_) | (__|   <  __/ |       "
+echo "     |____/ \___/ \___|_|\_\___|_|       "
+echo "                                         "
+echo "  Maintenance procedures are in order:   "
+echo "========================================="
+
+
+
 
 # Define ANSI color codes
 CYAN="\033[1;36m"
 RESET="\033[0m"
-
+#animate message is called for both strings below
 animate_message() {
     local message=$1
     local duration=$2
@@ -21,7 +32,7 @@ animate_message() {
     sleep "$duration"
     kill $anim_pid > /dev/null 2>&1
     wait $anim_pid 2>/dev/null
-    echo -e "\n"  # <-- line break after animation ends
+    echo -e "\n"  #line break after animation ends
 }
 
 # Animated message for restarting services
